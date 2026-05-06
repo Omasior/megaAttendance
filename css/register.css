@@ -9,6 +9,8 @@
 
 .main {
   background-color: white;
+.bg-purple {
+  background-color: var(--primary-color);
 }
 
 .inner-div {
